@@ -1,0 +1,13 @@
+.jumbotron {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	background-color: red;
+	color: purple;
+}
+
+.container {
+	font-size: 30px;
+	color: white;
+}
+
